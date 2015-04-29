@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2014.7.17)  10 APR 2015 12:42
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2014.7.17)  27 APR 2015 17:35
 entering extended mode
  %&-line parsing enabled.
 **/home/ashley/priming_exp/data/table_cellulose_13C100.tex
@@ -223,4 +223,4 @@ Here is how much of TeX's memory you used:
  714 hyphenation exceptions out of 8191
  36i,11n,42p,304b,350s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on table_cellulose_13C100.dvi (5 pages, 20248 bytes).
+Output written on table_cellulose_13C100.dvi (5 pages, 20240 bytes).

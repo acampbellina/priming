@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2014.7.17)  10 APR 2015 12:42
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2014.7.17)  27 APR 2015 17:38
 entering extended mode
  %&-line parsing enabled.
 **/home/ashley/priming_exp/data/table_cellulose_13C700.tex
@@ -233,15 +233,7 @@ Overfull \hbox (2.26347pt too wide) in paragraph at lines 142--142
 []|  
  []
 
-[3] [4] [5]
-
-Package longtable Warning: Column widths have changed
-(longtable)                in table 4.4 on input line 175.
-
-
-Package longtable Warning: Table widths have changed. Rerun LaTeX.
-
-[6] (./table_cellulose_13C700.aux) ) 
+[3] [4] [5] [6] (./table_cellulose_13C700.aux) ) 
 Here is how much of TeX's memory you used:
  2074 strings out of 493849
  33096 string characters out of 1152846
